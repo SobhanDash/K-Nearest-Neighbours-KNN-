@@ -1,0 +1,8 @@
+KNN essentially used for grouping of data. 
+
+KNN works for looking the K closest points to the given data point which is to be classified into a group 
+and pick the class that occurs most to be the predicted value(most no. of times). 
+
+This is why this algorithm typically works best when we can identify clusters of points in our data set.
+
+K needs to take odd no. of data points so there is no tie between them and a bit more accurate model can be made.
